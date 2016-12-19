@@ -1,0 +1,19 @@
+[{
+    "img": "img/main_section02_01.jpg",
+    "title": "곱창,대창,막창 맛집",
+    "desc": "창창한 연말을 위하여!",
+    "editorPic": "img/editor01.jpg",
+    "editorName": "수지"
+}, {
+    "img": "img/main_section02_03.jpg",
+    "title": "컨템포러리 맛집",
+    "desc": "트랜디한 식당들",
+    "editorPic": "img/editor02.jpg",
+    "editorName": "정연"
+}, {
+    "img": "img/main_section02_02.jpg",
+    "title": "서울 족발,보쌈 맛집",
+    "desc": "5대 맛집 여기 다 있다",
+    "editorPic": "img/editor02.jpg",
+    "editorName": "정연"
+}]
