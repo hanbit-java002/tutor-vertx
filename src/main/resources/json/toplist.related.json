@@ -1,0 +1,25 @@
+[{
+	"name": "한빛골2",
+	"score": 3.5,
+	"img": "img/main_section03_01.jpg",
+	"location": "신촌",
+	"category": "한식"
+}, {
+	"name": "고기먹다한명이사라질때까지",
+	"score": 3.2,
+	"img": "img/main_section03_02.jpg",
+	"location": "홍대",
+	"category": "기타 한식"
+}, {
+	"name": "모두덮밥",
+	"score": 4.5,
+	"img": "img/main_section03_05.jpg",
+	"location": "제주",
+	"category": "기타 한식"
+}, {
+	"name": "파스타마을",
+	"score": 4.2,
+	"img": "img/main_section03_06.jpg",
+	"location": "삼성동",
+	"category": "이탈리안"
+}]

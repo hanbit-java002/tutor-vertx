@@ -57,11 +57,11 @@ public class MainVerticle extends AbstractVerticle {
 		router.route("/api/common/hotplaces").handler(ctx -> {
 			HttpServerResponse response = ctx.response();
 			
-			System.out.println("hello");
-			
 			response.putHeader("content-type", "application/json;charset=UTF-8");
 			response.sendFile("json/common.hotplaces.json");
 		});
+		
+		new TopListRouter().defineRoutes(router);
 		
 		vertx.createHttpServer().requestHandler(router::accept).listen(8080);
 	}
