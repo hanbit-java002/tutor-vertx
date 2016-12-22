@@ -1,6 +1,40 @@
 {
+	"id": "christmas",
 	"title": "크리스마스 메뉴 판매하는 맛집 베스트 10곳",
 	"desc": "\"드디어 기다리고 기다리던 날이 왔다\"",
 	"clicks": 5953,
-	"date": "2016-12-19"
+	"date": "2016-12-19",
+	"stores": [{
+		"name": "거구장",
+		"score": 3.0,
+		"img": "img/main_section03_03.jpg",
+		"location": "신촌",
+		"category": "한식",
+		"latLng": {
+			"lat": 37.5526233,
+			"lng": 126.9375131
+		},
+		"address": "서울 마포구 백범로 23",
+		"review": {
+		    "editorPic": "img/editor02.jpg",
+		    "editorName": "정연",
+		    "content": "가본적은 없지만 외국인들이 단체로 많이와서 별로일거 같아요"
+		}
+	}, {
+		"name": "미분당",
+		"score": 4.578,
+		"img": "img/main_section03_01.jpg",
+		"location": "신촌",
+		"category": "베트남 쌀국수",
+		"latLng": {
+			"lat": 37.556809,
+			"lng": 126.933523
+		},
+		"address": "서울특별시 서대문구 연세로5다길 35 (창천동)",
+		"review": {
+		    "editorPic": "img/editor01.jpg",
+		    "editorName": "수지",
+		    "content": "매번 갈때마다 줄서서 기다려야 해요. 먹으면서 떠들면 쫒겨날 수 있어요."
+		}
+	}]
 }
