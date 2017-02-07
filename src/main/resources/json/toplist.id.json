@@ -30,11 +30,27 @@
 			"lat": 37.556809,
 			"lng": 126.933523
 		},
-		"address": "서울특별시 서대문구 연세로5다길 35 (창천동)",
+		"address": "서울특별시 서대문구 연세로5다길 35",
 		"review": {
 		    "editorPic": "img/editor01.jpg",
 		    "editorName": "수지",
 		    "content": "매번 갈때마다 줄서서 기다려야 해요. 먹으면서 떠들면 쫒겨날 수 있어요."
+		}
+	}, {
+		"name": "본앤브레드",
+		"score": 4.7,
+		"img": "img/main_section03_07.jpg",
+		"location": "마장동",
+		"category": "한우 오마카세",
+		"latLng": {
+			"lat": 37.570392,
+			"lng": 127.041688
+		},
+		"address": "서울특별시 성동구 마장로37길 57",
+		"review": {
+		    "editorPic": "img/editor01.jpg",
+		    "editorName": "수지",
+		    "content": "너무 비싸다 ㅠㅠ"
 		}
 	}]
 }
