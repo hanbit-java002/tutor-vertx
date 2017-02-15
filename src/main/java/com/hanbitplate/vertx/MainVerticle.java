@@ -69,6 +69,7 @@ public class MainVerticle extends AbstractVerticle {
 		});
 		
 		new TopListRouter().defineRoutes(router);
+		new SocketRouter().defineRoutes(vertx, router);
 		
 		vertx.createHttpServer().requestHandler(router::accept).listen(8080);
 	}
